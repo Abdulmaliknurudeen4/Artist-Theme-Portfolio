@@ -1,0 +1,19 @@
+# Build settings
+
+markdown: kramdown
+permalink: pretty
+port: 1010
+
+sass:
+  sass_dir: assets/css
+  style: :nested
+
+#user variables
+title: Artists Theme
+email: AbdulmalikNurudeen4@gmail.com
+description: Thinker // Designer // Programmer // Engineer
+avatar: face.JPG
+blurb: <p><strong>Travis specializes in  making things for Human people.</strong>Most of the Things he makes are<a href="">Digital</a> interfaces, but he also puts efforts into crafting <a href="">next level beats</a> and <a href="">Youtube Videos</a> Stuffs and videos about Codes</p>
+bg-img: hero-img-bg.jpg
+hero-img: hero-img-bg.jpg
+logo: logo.svg
