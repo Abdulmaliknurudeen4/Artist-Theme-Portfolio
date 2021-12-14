@@ -1024,7 +1024,7 @@ td, th {
   content: "\f1ca"; }
 
 header {
-  background-image: url(/assets/img/logo.svg), url(/assets/img/hero-img-bg.jpg);
+  background-image: url(../img/logo.svg), url(../img/hero-img-bg.jpg);
   background-position: 30px 20px, 50% 50%;
   padding-bottom: 50px; }
   header nav {
@@ -1067,7 +1067,7 @@ header {
       padding-top: 0px; } }
 
 footer {
-  background-image: url(/assets/img/logo.svg), url(/assets/img/hero-img-bg.jpg); }
+  background-image: url(../img/logo.svg), url(../img/hero-img-bg.jpg); }
   footer .lockup {
     padding: 50px 30px; }
     footer .lockup:after {
@@ -1123,7 +1123,7 @@ footer {
     border-radius: 50%;
     background-size: cover;
     background-position: center;
-    background-image: url(/assets/img/face.JPG);
+    background-image: url(../img/face.JPG);
     -webkit-box-ordinal-group: 3;
     -moz-box-ordinal-group: 3;
     box-ordinal-group: 3;
